@@ -6,7 +6,7 @@
 
 ::Set Variables
     ::set chrome can be local or network share
-	    ::ex1 - set chrome=c:\temp\googlechromestandaloneenterprise64.msi
+	::ex1 - set chrome=c:\temp\googlechromestandaloneenterprise64.msi
         ::ex2 - set chrome=\\server\share\googlechromestandaloneenterprise64.msi
     set Chrome=
     ::The next line checks to see if Chrome variable is set and exits if its empty
